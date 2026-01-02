@@ -1,5 +1,3 @@
-Write read me for my system design notes
-
 # System Design Notes
 This repository contains my personal notes and insights on system design. It serves as a reference for understanding various concepts, patterns, and best practices in designing scalable and efficient systems.
 
